@@ -30,7 +30,8 @@ This commands includes
 
 ## Ping
 ## server
-![Screenshot 2024-04-12 142259](https://github.com/Haripriya132006/4.Execution_of_NetworkCommends/assets/144870747/be325d6e-d38a-49c6-a2aa-e16e2cee842f)
+![Screenshot 2024-04-12 142248](https://github.com/Haripriya132006/4.Execution_of_NetworkCommends/assets/144870747/257f7db7-67e3-4322-8fec-b351b56bf0da)
+
 ## client
 ![Screenshot 2024-04-12 142259](https://github.com/Haripriya132006/4.Execution_of_NetworkCommends/assets/144870747/fcd0ad23-c611-4a9d-809a-ae8de3dbd7a3)
 
