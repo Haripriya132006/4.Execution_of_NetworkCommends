@@ -36,7 +36,8 @@ This commands includes
 ![Screenshot 2024-04-12 142259](https://github.com/Haripriya132006/4.Execution_of_NetworkCommends/assets/144870747/fcd0ad23-c611-4a9d-809a-ae8de3dbd7a3)
 
 ## Tracert
-![Screenshot 2024-04-19 151214](https://github.com/Haripriya132006/4.Execution_of_NetworkCommends/assets/144870747/9cb08fd7-bfd2-4a91-88b7-8011c47495ff)
+![Screenshot 2024-04-20 095509](https://github.com/Haripriya132006/4.Execution_of_NetworkCommends/assets/144870747/bad0ce65-e79c-4b82-8963-1c6170296a1f)
+
 
 ## Output
 ## Ping
@@ -48,7 +49,8 @@ This commands includes
 
 
 ## Tracert
-![Screenshot 2024-04-19 150654](https://github.com/Haripriya132006/4.Execution_of_NetworkCommends/assets/144870747/6e5ecdbd-67a8-4856-8214-52e34a157edd)
+![Screenshot 2024-04-20 095337](https://github.com/Haripriya132006/4.Execution_of_NetworkCommends/assets/144870747/38c9ae19-12a7-46dd-b0c1-c5cce6476136)
+
 
 ## Result
 Thus Execution of Network commands Performed 
